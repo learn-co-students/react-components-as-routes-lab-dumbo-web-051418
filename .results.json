@@ -5,9 +5,9 @@
     "passes": 24,
     "pending": 0,
     "failures": 0,
-    "start": "2018-07-23T23:09:41.405Z",
-    "end": "2018-07-23T23:09:41.505Z",
-    "duration": 100
+    "start": "2018-07-23T23:13:24.689Z",
+    "end": "2018-07-23T23:13:24.781Z",
+    "duration": 92
   },
   "tests": [
     {
@@ -20,21 +20,21 @@
     {
       "title": "should render 'Actors Page' inside of the <h1 />",
       "fullTitle": "Actors should render 'Actors Page' inside of the <h1 />",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should render a <div /> for each actor",
       "fullTitle": "Actors should render a <div /> for each actor",
-      "duration": 6,
+      "duration": 5,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should render the right content for each actor with a className of 'actor'",
       "fullTitle": "Actors should render the right content for each actor with a className of 'actor'",
-      "duration": 8,
+      "duration": 9,
       "currentRetry": 0,
       "err": {}
     },
@@ -48,7 +48,7 @@
     {
       "title": "contains a <Route path=\"/\">",
       "fullTitle": "App contains a <Route path=\"/\">",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -62,14 +62,14 @@
     {
       "title": "contains a <Route path=\"/directors\">",
       "fullTitle": "App contains a <Route path=\"/directors\">",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains a <Route path=\"/movies\">",
       "fullTitle": "App contains a <Route path=\"/movies\">",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -132,7 +132,7 @@
     {
       "title": "should render a <div /> for each movie",
       "fullTitle": "Movies should render a <div /> for each movie",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -146,14 +146,14 @@
     {
       "title": "wraps content in a div with .navbar class",
       "fullTitle": "NavBar wraps content in a div with .navbar class",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "renders a Home <NavLink>",
       "fullTitle": "NavBar navlinks renders a Home <NavLink>",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -192,21 +192,21 @@
     {
       "title": "should render 'Actors Page' inside of the <h1 />",
       "fullTitle": "Actors should render 'Actors Page' inside of the <h1 />",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should render a <div /> for each actor",
       "fullTitle": "Actors should render a <div /> for each actor",
-      "duration": 6,
+      "duration": 5,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should render the right content for each actor with a className of 'actor'",
       "fullTitle": "Actors should render the right content for each actor with a className of 'actor'",
-      "duration": 8,
+      "duration": 9,
       "currentRetry": 0,
       "err": {}
     },
@@ -220,7 +220,7 @@
     {
       "title": "contains a <Route path=\"/\">",
       "fullTitle": "App contains a <Route path=\"/\">",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -234,14 +234,14 @@
     {
       "title": "contains a <Route path=\"/directors\">",
       "fullTitle": "App contains a <Route path=\"/directors\">",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains a <Route path=\"/movies\">",
       "fullTitle": "App contains a <Route path=\"/movies\">",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -304,7 +304,7 @@
     {
       "title": "should render a <div /> for each movie",
       "fullTitle": "Movies should render a <div /> for each movie",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -318,14 +318,14 @@
     {
       "title": "wraps content in a div with .navbar class",
       "fullTitle": "NavBar wraps content in a div with .navbar class",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "renders a Home <NavLink>",
       "fullTitle": "NavBar navlinks renders a Home <NavLink>",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
